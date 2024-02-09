@@ -19,7 +19,7 @@
   "homepage": "https://github.com/mongodb/realm-practice#readme",
   "devDependencies": {
     "@electron/remote": "^2.0.8",
-    "electron": "^20.3.2",
+    "electron": "^22.3.25",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^7.2.0",
